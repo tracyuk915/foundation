@@ -17,4 +17,8 @@ describe "RSpec Greeter" do
     greeting.should == "Hello RSpec"
   end
 
+  it do
+
+  end
+
 end
