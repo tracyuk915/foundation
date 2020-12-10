@@ -5,21 +5,21 @@
       "name": "use case 1",
       "description": "this is desc 1",
       "created_by": "tracy",
-      "function_id": 1
+      "function_ids": [1,2,3]
     },
     {
       "id": 2,
       "name": "use case 2",
       "description": "this is desc 2",
       "created_by": "tracy",
-      "function_id": 2
+      "function_ids": [2]
     },
     {
       "id": 3,
       "name": "use case 3",
       "description": "this is desc 3",
       "created_by": "ming",
-      "function_id": 3
+      "function_ids": [1,3]
     }
   ],
   "functions": [
