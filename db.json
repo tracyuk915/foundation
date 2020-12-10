@@ -19,6 +19,20 @@
       "function_id": 3
     }
   ],
+  "functions": [
+    {
+      "id": 1,
+      "name": "system function 1",
+    },
+    {
+      "id": 2,
+      "name": "system function 2",
+    },
+    {
+      "id": 3,
+      "name": "system function 2",
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
