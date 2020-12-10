@@ -2,17 +2,17 @@
   "usecases": [
     {
       "id": 1,
-      "name": "case1",
+      "name": "use case 1",
       "description": "this is desc 1"
     },
     {
       "id": 2,
-      "name": "case2",
+      "name": "use case 2",
       "description": "this is desc 2"
     },
     {
       "id": 3,
-      "name": "case3",
+      "name": "use case 3",
       "description": "this is desc 3"
     }
   ],
