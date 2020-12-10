@@ -1,0 +1,17 @@
+{
+  "usecase": [
+    {
+      "id": 1,
+      "name": "use case 1",
+      "description":"this is desc"
+    },
+    {
+      "id": 2,
+      "name": "use case 2",
+      "description":"this is desc"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
