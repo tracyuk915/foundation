@@ -2,18 +2,18 @@
   "usecases": [
     {
       "id": 1,
-      "name": "use case 1",
-      "description": "this is desc"
+      "name": "case1",
+      "description": "this is desc 1"
     },
     {
       "id": 2,
-      "name": "use case 2",
-      "description": "this is desc"
+      "name": "case2",
+      "description": "this is desc 2"
     },
     {
       "id": 3,
-      "name": "use case 3",
-      "description": "this is desc"
+      "name": "case3",
+      "description": "this is desc 3"
     }
   ],
   "profile": {
